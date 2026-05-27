@@ -11,26 +11,26 @@ HTML = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Phone Terminal</title>
+    <title>SADFACE</title>
 
     <style>
         body {
             background: #111;
-            color: #0f0;
+            color: #fff;
             font-family: monospace;
             padding: 20px;
         }
 
         h2 {
-            color: #0f0;
+            color: #fff;
         }
 
         textarea {
             width: 100%;
             height: 70px;
             background: #000;
-            color: #0f0;
-            border: 1px solid #0f0;
+            color: #fff;
+            border: 1px solid #fff;
             padding: 10px;
             resize: none;
             font-family: monospace;
@@ -41,8 +41,8 @@ HTML = """
             margin-top: 10px;
             padding: 10px 20px;
             background: #000;
-            color: #0f0;
-            border: 1px solid #0f0;
+            color: #fff;
+            border: 1px solid #fff;
             cursor: pointer;
             font-family: monospace;
         }
@@ -51,7 +51,7 @@ HTML = """
             margin-top: 20px;
             background: #000;
             padding: 15px;
-            border: 1px solid #0f0;
+            border: 1px solid #fff;
             height: 500px;
             overflow-y: scroll;
             white-space: pre-wrap;
